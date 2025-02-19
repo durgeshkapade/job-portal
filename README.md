@@ -47,4 +47,7 @@ Create a .env file in the backend folder and add the following:
 PORT = 5000
 MONGO_URI = your-mongodb-connection-string
 JWT_SECRET = your-jwt-secret
+API_KEY = api-key
+CLOUD_NAME = cloud-name
+SECRET_KEY = secret-key
 
